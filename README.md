@@ -2,7 +2,7 @@
 Welcome to the Pathfinding Algorithm Visualizer! I built this application because while learning about pathfinding algorithms as a beginner to programming, I was amazed that the algorithms I was learning were actually the foundations of navigation software. This amazement is what caused me to create this project as I wanted to visually observe how they would interact given certain conditions. You can download this code from the repository and set it up in your own IDE to run the program (make sure to link the appropriate SDL files before running the program), I hope you enjoy this visualization program as much as I enjoyed creating it.
 
 ## Algorithms 
-**Breadth First Search (BFS)** - This is an unweighted search algorithm that ensures the shortest path however, it is not very efficient.
+**Breadth First Search (BFS)** - This is an unweighted search algorithm that ensures the shortest path however, it is not very efficient.  
 **Djikstra's Algorithm** - This is a weighted search algorithm that also ensures the shortest path in a non efficient way simillar to Breadth First Search. This is also the foundational algorithm that all other search algorithms are created from.  
 **A star Algorithm** - This is a weighted search algorithm that uses heuristics to gurantee a shortest path in a more efficient way than Djikstra's algorithm. This is arguably the best search algorithm however requires you to know the position of your end node prior to the search.
 
