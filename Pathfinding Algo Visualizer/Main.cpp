@@ -13,5 +13,6 @@ int main(int argc, char **argv) {
 	}
 	window->~Window();
 	delete window;
+	window = nullptr;
 	return 0;
 }
