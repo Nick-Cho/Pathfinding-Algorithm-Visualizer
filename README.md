@@ -13,7 +13,7 @@ Welcome to the Pathfinding Algorithm Visualizer! I built this application becaus
 
 ## Using the Program
 ![image](https://user-images.githubusercontent.com/65980644/97165622-5f66cc00-175a-11eb-9300-97ac0ffc4cab.png)
-I tried to design this program with user friendly controls to allow for easy use of this program. On the right hand side of the screen there are buttons that allow you to select different algorithms as well as heuristics for the Astar algorithm. The rest of the controls are detailed below:   
+I designed this program with user friendly controls to allow for easy use of this program. On the right hand side of the screen there are buttons that allow you to select different algorithms as well as heuristics for the Astar algorithm. The rest of the controls are detailed below:   
 **Setting Start Node** - Hold the SHIFT key while left-clicking on any square in the grid.  
 **Setting End Node** - Hold the Left-CTRL key while left-clicking on any square in the grid.  
 **Setting Obstacles** - Hold W while left-clicking on any square in the grid.  
